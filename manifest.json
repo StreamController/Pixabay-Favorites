@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "images": "images/",
+    "name": "Pixabay Favorites",
+    "thumbnail": "store/thumbnail.png",
+    "description": "Some of my favorite images from Pixabay."
+}
