@@ -1,6 +1,7 @@
 {
     "version": "1.0.0",
     "images": "images/",
+    "id": "com_core447_PixabayFavorites",
     "name": "Pixabay Favorites",
     "thumbnail": "store/thumbnail.png",
     "descriptions": {
